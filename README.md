@@ -54,6 +54,8 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Hill Street Blues (TV Theme)|Mike Post||
+|Smooth Criminal|Luca Stricagnoli|One Man, Three Guitar Necks|
+|Midnight Train to Georgia|Gladys Knight||
 
 
 
