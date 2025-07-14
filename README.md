@@ -8,11 +8,11 @@ Vincent Lowe - vincentlowe@salesforce.com - agentv@gmail.com
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:							
+Attendance Code:							NK7DGV
 
 Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:					
+eBook Redemption Key:					US0MR95W26D3
 
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:									https://www.research.net/r/trailheadacademy
@@ -53,7 +53,7 @@ Classroom Playlist
 -------------------------------------------------------------------------------------------------------------------
 |Track Title|Artist|Notes|
 |-----------|------|-----|
-|Taxi (theme song)|Bob James||
+|Hill Street Blues (TV Theme)|Mike Post||
 
 
 
