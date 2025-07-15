@@ -57,7 +57,7 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnoli|One Man, Three Guitar Necks|
 |Midnight Train to Georgia|Gladys Knight||
 |Hotel California|Moyun||
-
+|Analog Hero|Mark Erelli|Mark says he wrote this about his dad|
 
 
 
