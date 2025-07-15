@@ -59,6 +59,8 @@ Classroom Playlist
 |Hotel California|Moyun||
 |Analog Hero|Mark Erelli|Mark says he wrote this about his dad|
 |The Streetbeater|Quincy Jones|Sanford and Son TV Theme|
+|Here We Go Again|Ray Charles and Norah Jones||
+
 
 
 
