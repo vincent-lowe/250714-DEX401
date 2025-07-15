@@ -60,7 +60,8 @@ Classroom Playlist
 |Analog Hero|Mark Erelli|Mark says he wrote this about his dad|
 |The Streetbeater|Quincy Jones|Sanford and Son TV Theme|
 |Here We Go Again|Ray Charles and Norah Jones||
-
+|Lazybones|Leon Redbone||
+|Sixteen Tons|Geoff Castellucci|ALL of the voices are Geoff|
 
 
 
