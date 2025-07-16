@@ -63,6 +63,9 @@ Classroom Playlist
 |Lazybones|Leon Redbone||
 |Sixteen Tons|Geoff Castellucci|ALL of the voices are Geoff|
 |Just Dropped In (To See What Condition My Condition Was In|Willie Nelson||
+|City of New Orleans|Arlo Guthrie||
+|Angel From Montgomery|John Prine||
+
 
 
 
