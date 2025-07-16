@@ -65,6 +65,8 @@ Classroom Playlist
 |Just Dropped In (To See What Condition My Condition Was In|Willie Nelson||
 |City of New Orleans|Arlo Guthrie||
 |Angel From Montgomery|John Prine||
+|Hello, Goodbye|The Beatles||
+|Tupelo Honey|Reina del Cid||
 
 
 
