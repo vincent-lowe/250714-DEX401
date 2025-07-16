@@ -67,6 +67,8 @@ Classroom Playlist
 |Angel From Montgomery|John Prine||
 |Hello, Goodbye|The Beatles||
 |Tupelo Honey|Reina del Cid||
+|The Hitter|Mark Erelli||
+
 
 
 
