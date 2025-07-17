@@ -69,6 +69,7 @@ Classroom Playlist
 |Tupelo Honey|Reina del Cid||
 |The Hitter|Mark Erelli||
 |Good Day for a Good Day|Michael Franti||
+|Dos Oruguitas|Stephen Joseph||
 
 
 
