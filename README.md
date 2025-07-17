@@ -70,6 +70,7 @@ Classroom Playlist
 |The Hitter|Mark Erelli||
 |Good Day for a Good Day|Michael Franti||
 |Dos Oruguitas|Stephen Joseph||
+|Hotel California|Laszlo Buring||
 
 
 
