@@ -71,6 +71,7 @@ Classroom Playlist
 |Good Day for a Good Day|Michael Franti||
 |Dos Oruguitas|Stephen Joseph||
 |Hotel California|Laszlo Buring||
+|Stairway to Heaven|Luca Stricagnoli|Guiter solo within a guitar solo|
 
 
 
