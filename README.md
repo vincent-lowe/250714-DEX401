@@ -73,6 +73,7 @@ Classroom Playlist
 |Hotel California|Laszlo Buring||
 |Stairway to Heaven|Luca Stricagnoli|Guiter solo within a guitar solo|
 |It Ain't Over Yet|Rodney Crowell||
+|Feeling Good|Nina Simone||
 
 
 
